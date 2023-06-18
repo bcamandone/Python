@@ -5,7 +5,5 @@ Es uno de los lenguajes de programación con reglas más simples e intuitivas qu
 
 Es un lenguaje utilizado con múltiples propósitos y es uno de los más populares en el campo de la ciencia de datos.
 
-Este repositorio contiene una carpeta de ejercicios con código de Python para principiantes y una carpeta de notebooks con conceptos del lenguaje teórico/prácticos. 
-
  # ¡Por favor, dame un ⭐️ si te gustan y utilizas mis repositorios! 👏
 
