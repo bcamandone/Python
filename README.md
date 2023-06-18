@@ -7,3 +7,5 @@ Es un lenguaje utilizado con múltiples propósitos y es uno de los más popular
 
 Este repositorio contiene una carpeta de ejercicios con código de Python para principiantes y una carpeta de notebooks con conceptos del lenguaje teórico/prácticos. 
 
+ # ¡Por favor, dame un ⭐️ si te gustan mis repositorios! 👏
+
